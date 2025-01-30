@@ -1,3 +1,6 @@
 [submodule "Bird-Game"]
 	path = Bird-Game
 	url = https://github.com/purvasute/Bird-Game.git
+[submodule "Rocket-Game"]
+	path = Rocket-Game
+	url = https://github.com/purvasute/Rocket-Game.git
