@@ -7,3 +7,6 @@
 [submodule "Sideway-Shooter-Game"]
 	path = Sideway-Shooter-Game
 	url = https://github.com/purvasute/Sideway-Shooter-Game.git
+[submodule "Star_game"]
+	path = Star_game
+	url = https://github.com/purvasute/Star_game.git
