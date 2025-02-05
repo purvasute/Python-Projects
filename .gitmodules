@@ -13,3 +13,6 @@
 [submodule "Raindrop"]
 	path = Raindrop
 	url = https://github.com/purvasute/Raindrop
+[submodule "Target_practice"]
+	path = Target_practice
+	url = https://github.com/purvasute/Target_practice
