@@ -19,3 +19,6 @@
 [submodule "New_sideway_Shooter"]
 	path = New_sideway_Shooter
 	url = https://github.com/purvasute/New_sideway_Shooter
+[submodule "Alien_invasion_game"]
+	path = Alien_invasion_game
+	url = https://github.com/purvasute/Alien_invasion_game
